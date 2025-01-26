@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3181b2fd5af8ce340b992151c5cd3606, type: 3}
+  m_Name: Kartu 39
+  m_EditorClassIdentifier: 
+  value: 1.4
+  cardSprite: {fileID: 61537359440583793, guid: a95a4874e8cd7d94caa232edbad70db5, type: 3}
+  cardName: 1.4
+  kalkulasi: 1
